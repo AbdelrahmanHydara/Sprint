@@ -1,4 +1,4 @@
-# sprint
+# Sprint
 
 A new Flutter project.
 
